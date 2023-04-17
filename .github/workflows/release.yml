@@ -3,7 +3,7 @@ name: Build precompiled NIFs
 on:
   push:
     branches:
-      - main
+      - fixes-17042023
     tags:
       - "*"
 
